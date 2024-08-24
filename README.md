@@ -1,1 +1,3 @@
 # EDA-Helper-Function
+
+When performing exploratory data analysis (EDA), we often rely on built-in functions. While these functions can be helpful, they sometimes become time-consuming and make the detailed analysis of each column tedious. To save time and avoid the repetitive tasks commonly associated with EDA, we can create a helper function that automates these processes. Built-in functions may also lead to overlapping results and unnecessary information, making it difficult to focus on more advanced analysis. By developing a helper function, we can ensure a thorough analysis from basic to advanced levels without restricting ourselves to only fundamental insights. Here, we have outlined a sequence for analyzing data, ranging from basic to advanced techniques.
